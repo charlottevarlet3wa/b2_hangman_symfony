@@ -1,0 +1,112 @@
+{
+  "words": [
+    {
+      "word": "SYMFONY",
+      "hint": "Modern PHP framework for building structured and robust web applications."
+    },
+    {
+      "word": "FRAMEWORK",
+      "hint": "A set of software tools and libraries that provide a ready-to-use structure for application development."
+    },
+    {
+      "word": "MVC",
+      "hint": "Architectural pattern separating responsibilities into three layers: Model, View, Controller."
+    },
+    {
+      "word": "FASTCGI",
+      "hint": "Protocol that keeps PHP processes persistent to improve performance compared to CGI."
+    },
+    {
+      "word": "PHP-FPM",
+      "hint": "FastCGI Process Manager for PHP, responsible for interpreting requests and executing scripts."
+    },
+    {
+      "word": "KERNEL",
+      "hint": "The core of a Symfony application, responsible for initializing configuration, bundles, and services."
+    },
+    {
+      "word": "DEPENDENCY INJECTION",
+      "hint": "Principle of providing a class with its dependencies instead of creating them internally."
+    },
+    {
+      "word": "YAML",
+      "hint": "Human-readable data serialization language, used for Symfony configuration."
+    },
+    {
+      "word": "TWIG",
+      "hint": "Template engine used in Symfony to generate HTML from .twig files."
+    },
+    {
+      "word": "SSL",
+      "hint": "Protocol for securing Internet communications through encryption."
+    },
+    {
+      "word": "TLS",
+      "hint": "Security protocol succeeding SSL to encrypt Internet communications."
+    },
+    {
+      "word": "SCOOP",
+      "hint": "Package manager for Windows used to install Symfony and other tools."
+    },
+    {
+      "word": "FILTER",
+      "hint": "Function applied to a variable in Twig to transform its output."
+    },
+    {
+      "word": "ORM",
+      "hint": "An object-relational mapper that converts PHP objects into SQL queries and vice versa."
+    },
+    {
+      "word": "ENTITYMANAGER",
+      "hint": "Doctrine component responsible for managing persistence and synchronizing entities with the database."
+    },
+    {
+      "word": "MIGRATION",
+      "hint": "A file containing SQL instructions to create, modify, or delete tables and columns."
+    },
+    {
+      "word": "REPOSITORY",
+      "hint": "A Doctrine class used to retrieve data from the database using predefined or custom methods."
+    },
+    {
+      "word": "DQL",
+      "hint": "Doctrine Query Language, an object-oriented query language used by Doctrine to manipulate entities."
+    },
+    {
+      "word": "LAZY LOADING",
+      "hint": "Mechanism that loads data only when it is actually accessed."
+    },
+    {
+      "word": "PROFILER",
+      "hint": "Symfony debugging tool displaying SQL queries, response time and other performance data."
+    },
+    {
+      "word": "DATA TRANSFORMER",
+      "hint": "Symfony component that converts a value from one format to another between form and entity."
+    },
+    {
+      "word": "SLUG",
+      "hint": "Unique textual identifier, usually used in URLs to represent content."
+    },
+    {
+      "word": "HASHING",
+      "hint": "Cryptographic transformation of a password into a non-reversible digest."
+    },
+    {
+      "word": "PROVIDER",
+      "hint": "Source from which Symfony loads users (DB, LDAP, etc.)."
+    },
+    {
+      "word": "FIREWALL",
+      "hint": "Protection zone defined by URL pattern that encapsulates authentication and access logic."
+    },
+    {
+      "word": "CSRF",
+      "hint": "Protection against cross-site request forgery using a unique token per form."
+    },
+    {
+      "word": "VOTER",
+      "hint": "Class deciding whether to allow an action on an object based on business rules."
+    }
+  ]
+}
